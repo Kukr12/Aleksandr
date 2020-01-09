@@ -2,7 +2,8 @@
 package lesson6;
 public class TwoDArray2 {
     public static void main(String[] args) {
-        char[][] array = {{'a', 'n'},
+        char[][] array = {
+                {'a', 'n'},
                 {'a', 'h'},
                 {'b', 'g'},
                 {'v', 'd'}};

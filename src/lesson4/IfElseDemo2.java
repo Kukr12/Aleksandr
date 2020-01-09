@@ -12,9 +12,10 @@ public class IfElseDemo2 {
             System.out.println("Thu");
         } else if (args[0].equals("5")) {
             System.out.println("Fri");
-        } else if (args[0].equals("6")) {
+        } else if (args[0].equals("6")){
             System.out.println("Weekend");
-        } else args[0].equals("7"); {
+        } else args[0].equals("8");
+        {
             System.out.println("Wrong number!!!");
         }
 

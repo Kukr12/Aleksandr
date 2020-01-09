@@ -5,9 +5,9 @@ public class Gerlanda2 {
         int y = 6;
         int gerlanda = 30;
         System.out.println("Gerlanda" + Integer.toBinaryString(gerlanda));
-        firstOnOrOff(gerlanda, y);
+        firstOnOrOff(gerlanda);
         blinkAction(gerlanda);
-        runString(gerlanda);
+        runString(gerlanda,y);
         switch (2) {
             case 1:
                 System.out.println("firstOnOrOff");
@@ -24,7 +24,7 @@ public class Gerlanda2 {
         }
     }
 
-    private static void firstOnOrOff(int gerlanda, int y) {
+    private static void runString(int gerlanda, int y) {
         int g = gerlanda & y;
         if (g == 1) {
             System.out.println("Лампочка включаеться в одном положение " + g);
@@ -39,7 +39,7 @@ public class Gerlanda2 {
         System.out.println("Switch On" + Integer.toBinaryString(g));
     }
 
-    private static void runString(int gerlanda) {
+    private static void firstOnOrOff(int gerlanda) {
         int g = ~gerlanda;
         System.out.println("Switch Off" + Integer.toBinaryString(g));
     }
