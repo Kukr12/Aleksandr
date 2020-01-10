@@ -1,9 +1,16 @@
 package lesson6;
 
 public class Phone {
-    String namber;
-    double weight;
-    String model;
+    static int count;
+
+    private String namber;
+    private double weight;
+    private String model;
+
+
+    Phone() {
+        count++;
+    }
 
     public Phone(String namber, double weight, String model) {
         this.namber = namber;
@@ -16,27 +23,44 @@ public class Phone {
         this.weight = weight;
     }
 
-    public Phone() {
-    }
 
     void receiveColl(String name) {
         System.out.println(name + " Is calling on my phone number " + namber);
-
     }
 
     void receiveColl(String name, String namber) {
-        System.out.println(name + "with number" + namber + "is callin on my phon");
+        System.out.println(name + "with number" + " Is calling on my phone number " + namber);
     }
 
-    String getNamber() {
+    public String getNamber() {
         return namber;
     }
 
-    void sendMessage(String... nambers, String... messege) {
-        System.out.println("Send messeg " + messege + "to phone ");
-        for (String number : nambers) {
-            System.out.println(number);
-        }
+    public void setNamber(String namber) {
+        this.namber = namber;
     }
-}
 
+    public double getWeight() {
+        return weight;
+    }
+
+    public void setWeight(double weight) {
+        this.weight = weight;
+    }
+
+    public String getModel() {
+        return model;
+    }
+
+    public void setModel(String model) {
+        this.model = model;
+    }
+/* void sendMessage(String... messege, String... nambers) {
+        System.out.println("Send messeg " + messege + "to phone ");
+        for (String namber : nambers) {
+            System.out.println(namber);
+
+        }
+    }*/
+
+}

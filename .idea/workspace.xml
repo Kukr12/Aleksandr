@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ecc8925-9ecd-4213-bf95-b4b28e47fa63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/lesson6/PhonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson6/PhonDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson6/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson6/Phone.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\JAVA\java1\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Uv88OWzBXFqnVn19SQnCXtPSpb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Application.IfElseDemo2">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson3.Calculator" />
+      <module name="java1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson1.HelloWorld" />
+      <module name="java1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IfElseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson4.IfElseDemo" />
+      <module name="java1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IfElseDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson4.IfElseDemo2" />
+      <module name="java1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IfElseDemo2" />
+        <item itemvalue="Application.IfElseDemo" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ecc8925-9ecd-4213-bf95-b4b28e47fa63" name="Default Changelist" comment="" />
+      <created>1576225549018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576225549018</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="266" y="110" key="#Project_Structure" timestamp="1576234335681">
+      <screen x="0" y="0" width="1348" height="900" />
+    </state>
+    <state x="266" y="110" key="#Project_Structure/0.0.1348.900@0.0.1348.900" timestamp="1576234335681" />
+    <state x="340" y="47" key="CommitChangelistDialog2" timestamp="1576232878221">
+      <screen x="0" y="0" width="1348" height="900" />
+    </state>
+    <state x="340" y="47" key="CommitChangelistDialog2/0.0.1348.900@0.0.1348.900" timestamp="1576232878221" />
+    <state x="460" y="167" key="FileChooserDialogImpl" timestamp="1578481217376">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="207" key="FileChooserDialogImpl/0.0.1348.900@0.0.1348.900" timestamp="1576232537769" />
+    <state x="460" y="167" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578481217376" />
+    <state width="1305" height="228" key="GridCell.Tab.0.bottom" timestamp="1576235262514">
+      <screen x="0" y="0" width="1348" height="900" />
+    </state>
+    <state width="1305" height="228" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1576235302692">
+      <screen x="0" y="0" width="1348" height="900" />
+    </state>
+    <state width="1305" height="228" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1348.900@0.0.1348.900" timestamp="1576235302692" />
+    <state width="1305" height="228" key="GridCell.Tab.0.bottom/0.0.1348.900@0.0.1348.900" timestamp="1576235262514" />
+    <state width="1305" height="228" key="GridCell.Tab.0.center" timestamp="1576235262514">
+      <screen x="0" y="0" width="1348" height="900" />
+    </state>
+    <state width="1305" height="228" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1576235302692">
+      <screen x="0" y="0" width="1348" height="900" />
+    </state>
+    <state width="1305" height="228" key="GridCell.Tab.0.center.inPresentationMode/0.0.1348.900@0.0.1348.900" timestamp="1576235302692" />
+    <state width="1305" height="228" key="GridCell.Tab.0.center/0.0.1348.900@0.0.1348.900" timestamp="1576235262514" />
+    <state width="1305" height="228" key="GridCell.Tab.0.left" timestamp="1576235262514">
+      <screen x="0" y="0" width="1348" height="900" />
+    </state>
+    <state width="1305" height="228" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1576235302691">
+      <screen x="0" y="0" width="1348" height="900" />
+    </state>
+    <state width="1305" height="228" key="GridCell.Tab.0.left.inPresentationMode/0.0.1348.900@0.0.1348.900" timestamp="1576235302691" />
+    <state width="1305" height="228" key="GridCell.Tab.0.left/0.0.1348.900@0.0.1348.900" timestamp="1576235262514" />
+    <state width="1305" height="228" key="GridCell.Tab.0.right" timestamp="1576235262514">
+      <screen x="0" y="0" width="1348" height="900" />
+    </state>
+    <state width="1305" height="228" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1576235302692">
+      <screen x="0" y="0" width="1348" height="900" />
+    </state>
+    <state width="1305" height="228" key="GridCell.Tab.0.right.inPresentationMode/0.0.1348.900@0.0.1348.900" timestamp="1576235302692" />
+    <state width="1305" height="228" key="GridCell.Tab.0.right/0.0.1348.900@0.0.1348.900" timestamp="1576235262514" />
+    <state x="156" y="0" key="SettingsEditor" timestamp="1578481151218">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="154" y="26" key="SettingsEditor/0.0.1348.900@0.0.1348.900" timestamp="1576233772857" />
+    <state x="156" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578481151218" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1578479809432">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578479809432" />
+  </component>
+</project>
