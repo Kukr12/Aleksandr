@@ -19,7 +19,9 @@ public class Car {
         this.engine = engine;
     }
 
+    public Car() {
 
+    }
 
     public String getCarBrand() {
         return carBrand;
